@@ -1,0 +1,35 @@
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border-radius: 8%;
+}
+
+.text-lol {
+  background-color: silver;
+}
+
+ul {
+  width: 40em;
+  text-align: left;
+  margin: auto;
+  padding: auto;
+}
+
+#pac-facts {
+  font-size: 2em;
+  font-style: italic;
+}
+
+p {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Sans-serif;
+}
+
+figcaption {
+  font-size: 18px;
+  font-style: italic;
+  font-family: Sans-serif;
+}
